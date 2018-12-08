@@ -7,7 +7,7 @@ _Last Updated: December 7th, 2018_
 **Date**: December 14th, 2018 - March 8th, 2019  
 **Grade / Student Experience**: 9th Grade w/ little to no experience in computer science  
 **Class Schedule**: 11 weeks of 135 minutes sessions  
-**Supply List**:
+[**Supply List**](https://www.amazon.com/shop/madipfaff?listId=1HSNXJWWLVARH&ref=idea_share_inf): A more detailed description of the supply list is in the [SupplyList.md](https://github.com/WithMadiCo/IntroductionToTechnology/blob/master/SupplyList.md) file in this repository.
 - Computer (one for each student is best)
 - Text Editor (we used Atom.io)
 - Smart Mirror
@@ -15,10 +15,9 @@ _Last Updated: December 7th, 2018_
   - Two-Way Smart Mirror
   - Frame to fit around Mirror
   - Monitor
-- Alexa Skill
-  - Alexa product (we used Alexa dots)
 - Smart Bulbs / Lights
   - Smart Light Tape (we used this company)
+- Alexa Skill Repository (will be created/customized by the students)
 
 **Purpose**: To teach students with little knowledge of computer science about how technology products are created, giving them exposure to more than just the software development aspect. To inspire students and the community of the vast opportunities that computer science and technology create.  
 
