@@ -1,13 +1,13 @@
-# Introduction to Computer Science Curriculum
+# Building With Code Curriculum
 
-_Last Updated: December 7th, 2018_
+_Last Updated: December 13th, 2018_
 
 --------
 
-**Date**: December 14th, 2018 - March 8th, 2019  
+**Date**: December 14th, 2018 - March 15th, 2019  
 **Grade / Student Experience**: 9th Grade w/ little to no experience in computer science  
-**Class Schedule**: 11 weeks of 135 minutes sessions  
-[**Supply List**](https://www.amazon.com/shop/madipfaff?listId=1HSNXJWWLVARH&ref=idea_share_inf): A more detailed description of the supply list is in the [SupplyList.md](https://github.com/WithMadiCo/IntroductionToTechnology/blob/master/SupplyList.md) file in this repository.
+**Class Schedule**: 10 weeks of 135 minutes sessions  
+**[Supply List]()**:
 - Computer (one for each student is best)
 - Text Editor (we used Atom.io)
 - Smart Mirror
@@ -15,9 +15,10 @@ _Last Updated: December 7th, 2018_
   - Two-Way Smart Mirror
   - Frame to fit around Mirror
   - Monitor
+- Alexa Skill
+  - Alexa product (we used Alexa dots)
 - Smart Bulbs / Lights
   - Smart Light Tape (we used this company)
-- Alexa Skill Repository (will be created/customized by the students)
 
 **Purpose**: To teach students with little knowledge of computer science about how technology products are created, giving them exposure to more than just the software development aspect. To inspire students and the community of the vast opportunities that computer science and technology create.  
 
@@ -38,8 +39,9 @@ _Experiment_
 
 ------------------
 
+# Schedule
 
-### Week 1: Introduction to Computer Science / Technology
+### [12.16.18] Week 1: Introduction to Computer Science / Technology
 - **What is Technology/Computer Science?**
 - **What can you do with Technology?**
 - **Introduction to Computer Science Powerpoint**: You already know more than you think.
@@ -51,48 +53,56 @@ _Experiment_
 
 - **Introduction to the project**: Create a Magic Mirror, [show video](https://www.theverge.com/circuitbreaker/2017/8/17/16158104/smart-mirror-diy-raspberry-pi-commute-weather-time-gadget)
 
-### Week 2: CHRISTMAS PARTY
+### [12.21.18] Week 2: CHRISTMAS PARTY
 - **Technology Role**: Project Manager
 - **Project Management**: Introduce them to a new role in technology / what they would do
 - Put flashing lights on our sweater ???
 
 - **Minimum Viable Product (MVP)**: What needs to be on the first working prototype of the product?
 
+### [12.28.18] No School
 
-### Week 3: FIELD TRIP - DESIGN THINKING WORKSHOP
+### [01.04.19] No School
+
+### [01.11.19] Week 3: FIELD TRIP - DESIGN THINKING WORKSHOP
 - **Technology Role**: UX Designer
 - **Design Thinking Workshop**: Way to come up with solutions
 
-### Week 4:
+### [01.18.19] Week 4:
 - **Technology Role**: Front-End Developer
 
-### Week 5:
+### [01.25.19] Week 5:
 - **Technology Role**: Back-End Developer
 
-### Week 6:
+### [02.01.19] Week 6:
 - **Technology Role**: Bio-medical Engineer
 
-### Week 7: FIELD TRIP - TECHNOLOGY CENTER
+### [02.08.19] Early Dismissal: No Class
 - **Technology Role**: Product Manager
 
-### Week 8:
+### [02.15.19] Week 7: FIELD TRIP - TECHNOLOGY CENTER
 - **Technology Role**: Big Data Engineer
 
-### Week 9: ASSEMBLY REQUIRED
+### [02.22.19] Week 8: ASSEMBLY REQUIRED
 - **Technology Role**: Video Game Designer
 - Putting the product all together, and finishing touches.
 * Parts from the carpentry class should be completed by this week
 
-### Week 10: FIELD TRIP - PITCH CREATION
+### [03.01.19] Early Dismissal: No Class
 - **Technology Role**: Mobile App Developer
 - **Crafting Our Story / Solution**: Create a pitch deck and practice sharing about the technology you're creating
 
-### Week 11:
+### [03.08.19] Week 9: FIELD TRIP - PITCH CREATION
 - **Technology Role**: Virtual Reality Developer
 - **Crafting Our Story / Solution**: Create a pitch deck and practice sharing about the technology you're creating
 - **Practice Day**:
 
 
-### Week 12: PRESENTATION DAY
+### [03.15.19] Week 10: PRESENTATION DAY
 - **Technology Role**: Technologist - aka the students
 - **Presentation**: Give them the opportunity to present out their project / demo it to they classmates
+
+-------------------
+
+# Contact
+This course syllabus will be updating as we find better ways to teach the material. For any questions or comments please reach out to Madi @ [mailto:withmadico@gmail.com](withmadico@gmail.com). 
