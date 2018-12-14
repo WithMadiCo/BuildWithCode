@@ -100,4 +100,4 @@ Introduction to the course
 -------------------
 
 # Contact
-This course syllabus will be updating as we find better ways to teach the material. For any questions or comments please reach out to Madi @ [mailto:withmadico@gmail.com](withmadico@gmail.com).
+This course syllabus will be updating as we find better ways to teach the material. For any questions or comments please reach out to Madi @ [withmadico@gmail.com](mailto:withmadico@gmail.com).
