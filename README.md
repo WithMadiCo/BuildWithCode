@@ -7,18 +7,15 @@ _Last Updated: December 13th, 2018_
 **Date**: December 14th, 2018 - March 15th, 2019  
 **Grade / Student Experience**: 9th Grade w/ little to no experience in computer science  
 **Class Schedule**: 10 weeks of 135 minutes sessions  
-**[Supply List]()**:
+**[Supply List](https://github.com/WithMadiCo/IntroToTechnology/blob/master/curriculum/supplyList.md)**:
 - Computer (one for each student is best)
-- Text Editor (we used Atom.io)
-- Smart Mirror
-  - Raspberry Pi
-  - Two-Way Smart Mirror
-  - Frame to fit around Mirror
-  - Monitor
-- Alexa Skill
-  - Alexa product (we used Alexa dots)
-- Smart Bulbs / Lights
-  - Smart Light Tape (we used this company)
+- Text Editor (we're using [Atom](atom.io))
+- Two-Way Smart Mirror
+- Raspberry Pi
+- Frame for the mirror
+- LED Monitor with Speakers
+- USB Microphone
+- Smart Light Tape
 
 **Purpose**: To teach students with little knowledge of computer science about how technology products are created, giving them exposure to more than just the software development aspect. To inspire students and the community of the vast opportunities that computer science and technology create.  
 
@@ -30,7 +27,7 @@ _Exposure_
 
 _Education_
 - Foundations of programming concept
-- Required to attend the bootcamp ** FIND WHEN
+- Required to attend the coding bootcamp
 - Connection with classroom education  
 
 _Experiment_
@@ -42,6 +39,7 @@ _Experiment_
 # Schedule
 
 ### [12.16.18] Week 1: Introduction to Computer Science / Technology
+Introduction to the course
 - **What is Technology/Computer Science?**
 - **What can you do with Technology?**
 - **Introduction to Computer Science Powerpoint**: You already know more than you think.
@@ -57,30 +55,29 @@ _Experiment_
 - **Technology Role**: Project Manager
 - **Project Management**: Introduce them to a new role in technology / what they would do
 - Put flashing lights on our sweater ???
-
 - **Minimum Viable Product (MVP)**: What needs to be on the first working prototype of the product?
 
 ### [12.28.18] No School
 
 ### [01.04.19] No School
 
-### [01.11.19] Week 3: FIELD TRIP - DESIGN THINKING WORKSHOP
+### [01.11.19] Week 3: DESIGN THINKING WORKSHOP
 - **Technology Role**: UX Designer
 - **Design Thinking Workshop**: Way to come up with solutions
 
-### [01.18.19] Week 4:
-- **Technology Role**: Front-End Developer
+### [01.18.19] Week 4: FIELD TRIP | TECHNOLOGY CENTER
+- **Technology Role**: Product Manager
 
 ### [01.25.19] Week 5:
 - **Technology Role**: Back-End Developer
 
 ### [02.01.19] Week 6:
 - **Technology Role**: Bio-medical Engineer
+- **Technology Role**: Front-End Developer
 
 ### [02.08.19] Early Dismissal: No Class
-- **Technology Role**: Product Manager
 
-### [02.15.19] Week 7: FIELD TRIP - TECHNOLOGY CENTER
+### [02.15.19] Week 7:
 - **Technology Role**: Big Data Engineer
 
 ### [02.22.19] Week 8: ASSEMBLY REQUIRED
@@ -89,11 +86,9 @@ _Experiment_
 * Parts from the carpentry class should be completed by this week
 
 ### [03.01.19] Early Dismissal: No Class
-- **Technology Role**: Mobile App Developer
-- **Crafting Our Story / Solution**: Create a pitch deck and practice sharing about the technology you're creating
 
 ### [03.08.19] Week 9: FIELD TRIP - PITCH CREATION
-- **Technology Role**: Virtual Reality Developer
+- **Technology Role**: Mobile App Developer & Virtual Reality Developer
 - **Crafting Our Story / Solution**: Create a pitch deck and practice sharing about the technology you're creating
 - **Practice Day**:
 
@@ -105,4 +100,4 @@ _Experiment_
 -------------------
 
 # Contact
-This course syllabus will be updating as we find better ways to teach the material. For any questions or comments please reach out to Madi @ [mailto:withmadico@gmail.com](withmadico@gmail.com). 
+This course syllabus will be updating as we find better ways to teach the material. For any questions or comments please reach out to Madi @ [mailto:withmadico@gmail.com](withmadico@gmail.com).
