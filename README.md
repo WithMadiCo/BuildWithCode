@@ -16,6 +16,7 @@ _Last Updated: December 13th, 2018_
 - LED Monitor with Speakers
 - USB Microphone
 - Smart Light Tape
+- [Alexa Skill Documentation](https://developer.amazon.com/docs/custom-skills/steps-to-build-a-custom-skill.html#step-2-set-up-the-skill-in-the-developer-console)
 
 **Purpose**: To teach students with little knowledge of computer science about how technology products are created, giving them exposure to more than just the software development aspect. To inspire students and the community of the vast opportunities that computer science and technology create.  
 
