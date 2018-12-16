@@ -1,5 +1,7 @@
 # Week #1 Introduction to Computer Science / Technology
 ### Preparation
+- Register CS First Class:
+  - **Class Code** = _52CSYT_
 - Computers with the following tab open:
   - [Animate Your Name](https://csfirst.withgoogle.com/c/cs-first/en/animate-a-name/animate-a-name/animate-a-name.html)
 - Bottle of Coca-Cola for each student in the class
