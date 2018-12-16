@@ -51,7 +51,7 @@ Introduction to the course
 
 - **Introduction to the project**: Create a Magic Mirror, [show video](https://www.theverge.com/circuitbreaker/2017/8/17/16158104/smart-mirror-diy-raspberry-pi-commute-weather-time-gadget)
 
-### [12.21.18] Week 2: CHRISTMAS PARTY
+### [12.21.18] Week 2: CHRISTMAS PARTY / Role Assignment
 - **Technology Role**: Project Manager
 - **Project Management**: Introduce them to a new role in technology / what they would do
 - Put flashing lights on our sweater ???

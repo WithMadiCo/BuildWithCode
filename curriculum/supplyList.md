@@ -14,4 +14,7 @@ It can be overwhelming trying to find the exact products to bring your Magic Mir
 - **USB Keyboard + Mouse**
   - You will need these resources in order to program your Raspberry Pi with the proper software. My students will also have an additional computer they can use to program modules for the Smart Mirror. This is unnecessary for the completion of the project, but can be helpful.
 - **USB Microphone**
-  - This is for the Alexa enabled aspect of the project. This will plug into the Raspberry Pi 
+  - This is for the Alexa enabled aspect of the project. This will plug into the Raspberry Pi
+
+
+[You can shop this list here, with all the information with my reviews]([Magic Mirror Supply List](https://www.amazon.com/shop/madipfaff?listId=1HSNXJWWLVARH&ref=idea_share_inf)
