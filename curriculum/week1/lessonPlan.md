@@ -5,7 +5,7 @@
 - Computers with the following tab open:
   - [Animate Your Name](https://csfirst.withgoogle.com/c/cs-first/en/animate-a-name/animate-a-name/animate-a-name.html)
 - Bottle of Coca-Cola for each student in the class
-- [Rosetta Code Presentation Keynote Slides](https://github.com/WithMadiCo/IntroToTechnology/blob/master/curriculum/RosettaCodeIntroduction.key)
+- [Rosetta Code Presentation Keynote Slides](https://github.com/WithMadiCo/IntroToTechnology/blob/master/curriculum/week1/RosettaCodeIntroduction.key)
 
 ### Schedule
 1:00 - 1:20 --> Project Introductions to the entire group  

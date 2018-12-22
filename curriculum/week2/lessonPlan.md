@@ -17,10 +17,13 @@
   -  Get everyone their own Github account
   -  Add them as a collaborator to the Magic Mirror project  
 
-2:00 - 3:00 --> **Christmas Coding Activity**: Jingle Bells on the Arduino
+2:00 - 3:00 --> **Christmas Coding Activity**: Jingle Bells on the Arduino  
+
+- [Final Product](https://www.youtube.com/watch?v=Vv0svtxTESo) with [full source](https://portfolium.com/entry/arduino-jingle-bells-synchronized-lights)
 - [Christmas Light w/ Circuits](https://nittygrittyscience.com/stem-activity-holiday-light-circuits/)  
 - [Arduino Project with Light (Using Sparkfun RedBoard, Project 1A)](https://www.youtube.com/watch?v=qRtq0XgWxo0)
 - [Arduino Project with Light (Using Sparkfun RedBoard, Project 1B)](https://www.youtube.com/watch?v=qRtq0XgWxo0)
+- [Circuit 2B: Digital Trumpet](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-2b-digital-trumpet)
 - [Arduino Tutorial: LED Sequential Control- Beginner Project](https://www.youtube.com/watch?v=s9UId2eIImc)
 - [Paper Cut Circuits](https://sciencekiddo.com/paper-circuit-cards/)
 - [Holiday Card with Chibitronics - Blinking LED Christmas Tree Card](https://www.youtube.com/watch?time_continue=2&v=nm9ho15g9XU)
