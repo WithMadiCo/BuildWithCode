@@ -1,5 +1,5 @@
 # Week #1 Introduction to Computer Science / Technology
-### Preparation
+## Preparation
 - Register CS First Class:
   - **Class Code** = _52CSYT_
 - Computers with the following tab open:
@@ -7,10 +7,13 @@
 - Bottle of Coca-Cola for each student in the class
 - [Rosetta Code Presentation Keynote Slides](https://github.com/WithMadiCo/IntroToTechnology/blob/master/curriculum/week1/RosettaCodeIntroduction.key)
 
-### Schedule
-1:00 - 1:20 --> Project Introductions to the entire group  
-1:20 - 1:25 --> Introduction to Small group: [Show my Animated Name](https://scratch.mit.edu/projects/270453113/)  
-1:25 - 1:30 --> ASK: Computer Science Questions  
+## Schedule
+
+### `1:00 - 1:20` **Project Introductions to the entire group**
+
+### `1:20 - 1:25` **Introduction to Small group: [Show my Animated Name](https://scratch.mit.edu/projects/270453113/)**
+
+### `1:25 - 1:30` **ASK: Computer Science Questions**
 - **What is Technology/Computer Science?**  
 - **What can you do/create with Technology?**  
 - **What type of jobs do you think people in technology do?**  
@@ -23,11 +26,13 @@
   - hair animation
   - robots
   - ML / AI camera
-1:30 - 2:00 --> Rosetta Code  
+### `1:30 - 2:00` **Rosetta Code**
 - **Introduction to Computer Science Powerpoint**: You already know more than you think.  
-2:00 - 2:30 --> Animate Your Name  
+
+### `2:00 - 2:30` **Animate Your Name**
 - 3 Minute Introduction Video  
-2:30 - 3:00 --> Introduction to Project  
+
+### `2:30 - 3:00` **Introduction to Project**
 - **Present the problem**: What are we trying to solve? Do we need to solve this problem? How can we go about solving it?  
   - central place for communication
   - unique mark for the school
@@ -38,4 +43,5 @@
   - [Video #3](https://www.youtube.com/watch?v=HO326ptdlco): software build without Alexa
   - [Video #4](https://www.theverge.com/circuitbreaker/2017/8/17/16158104/smart-mirror-diy-raspberry-pi-commute-weather-time-gadget): the verge tutorial
 - **How are we going to go about this?**  
-3:00 - 3:15 --> Ideas / Questions  
+
+### `3:00 - 3:15` **Ideas / Questions**
