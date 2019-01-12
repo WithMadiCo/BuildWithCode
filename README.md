@@ -66,10 +66,10 @@ Introduction to the course
 - **Technology Role**: UX Designer
 - **Design Thinking Workshop**: Way to come up with solutions
 
-### [01.18.19] Week 4: FIELD TRIP | TECHNOLOGY CENTER
+### [01.18.19] Week 4: FIELD TRIP
 - **Technology Role**: Product Manager
 
-### [01.25.19] Week 5:
+### [01.25.19] Week 5: Begin Coding / Layout of TODO
 - **Technology Role**: Back-End Developer
 
 ### [02.01.19] Week 6:
