@@ -68,6 +68,7 @@ Introduction to the course
 
 ### [01.18.19] Week 4: FIELD TRIP
 - **Technology Role**: Product Manager
+- [http://www.philaedfund.org/programs/advancing-education/stem/links**Helpful List of Philadelphia STEAM Programs**]()
 
 ### [01.25.19] Week 5: Begin Coding / Layout of TODO
 - **Technology Role**: Back-End Developer
