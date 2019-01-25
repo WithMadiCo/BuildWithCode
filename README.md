@@ -73,7 +73,7 @@ Introduction to the course
 ### [01.25.19] Week 5: Begin Coding / Layout of TODO
 - **Technology Role**: Back-End Developer
 
-### [02.01.19] Week 6:
+### [02.01.19] Week 6: Coding
 - **Technology Role**: Bio-medical Engineer
 - **Technology Role**: Front-End Developer
 
