@@ -73,13 +73,13 @@ Introduction to the course
 ### [01.25.19] Week 5: Begin Coding / Layout of TODO
 - **Technology Role**: Back-End Developer
 
-### [02.01.19] Week 6: Coding
+### [02.01.19] Week 6: Coding --> SNOW DAY
 - **Technology Role**: Bio-medical Engineer
 - **Technology Role**: Front-End Developer
 
 ### [02.08.19] Early Dismissal: No Class
 
-### [02.15.19] Week 7:
+### [02.15.19] Week 7: Coding 
 - **Technology Role**: Big Data Engineer
 
 ### [02.22.19] Week 8: ASSEMBLY REQUIRED

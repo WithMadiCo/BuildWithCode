@@ -5,6 +5,7 @@
 - Download [Etcher (now BalenaEtcher)](https://www.balena.io/etcher/)
 - Download the latest version of [Raspbian (not the lite version)](https://www.raspberrypi.org/downloads/raspbian/)
 - Watch this video for [the voice kit](https://www.youtube.com/watch?v=HO326ptdlco)
+- Another video on the [raspberry pi setup](https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/)
 
 ## Schedule
 ### `1:00 - 1:20`  **Set Up Computer**
