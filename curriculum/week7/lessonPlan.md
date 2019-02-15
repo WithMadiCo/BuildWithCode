@@ -7,6 +7,7 @@
 ## **Open Tasks To Be Completed**
 - [ ] Make a materials list of the things they would need in order to construct the mirror  
 - [ ] Make an instruction set / blueprint of the mirror design  
+- [ ] Look at [mirror](https://www.amazon.com/dp/B01CZ35YJ6/ref=twister_B01CYYXQHI?_encoding=UTF8&th=1) options / dimensions with a $100 limit 
 - [ ] Finalize the location in which the mirror is being constructed  
 - [ ] Configure the Raspberry Pi to have the plugins in the correct place  
 - [ ] Add any customizations to the Raspberry Pi software  
@@ -15,13 +16,15 @@
 ### **"Assembly Required" Open Items**
 - [ ] Send Mr. Luis an email with the following information:  
     - Availability of working with the construction team and get the mirror built next week  
-    - Ask what desktop monitor we'd be able to use for the magic mirror  
+    - Ask what desktop monitor we'd be able to use for the magic mirror and what the dimensions would be
+    - Ask to order specific mirror (with dimensions and direct link)
     - Ask to confirm the desired location to install the mirror  
 - [ ] Send Pastor Andy an email with the following information:  
     - Availability of working with the construction team about getting the mirror built  
     - Attach the list of the materials they would need in order to construct the mirror  
     - Attach the instructions / blueprint of the mirror   
     - Thoughts on attaching the mirror to the location  
+    - Give a rough time estimate on how long this process will take
 
 ### **Web Scraping Activity**
 Let's start with this exercise: 
