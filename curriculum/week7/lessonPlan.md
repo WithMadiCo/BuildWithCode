@@ -31,5 +31,6 @@ Let's start with this exercise:
 ### **Helpful Links**
 - [How To Rotate Raspberry Pi Video Display / Screen](https://www.youtube.com/watch?v=J4WsMu7t3Yo)
 - [Rotating the Display: Step by Step Tutorial](https://core-electronics.com.au/tutorials/how-to-rotate-the-raspberry-pi-video-display.html)
+- [How to Build a Smart Mirror (NEW)](https://www.youtube.com/watch?v=aa3VVZA0e5Y)
 - [How to Build a Smart Mirror](https://www.youtube.com/watch?v=J2S75AhPqnM)
 
