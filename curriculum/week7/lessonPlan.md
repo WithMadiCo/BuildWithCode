@@ -5,13 +5,13 @@
 -   Next week is "Assembly Required" so we will need to put together all of the materials for next class. 
 
 ## **Open Tasks To Be Completed**
-- [ ] Make a materials list of the things they would need in order to construct the mirror  
+- [x] Make a materials list of the things they would need in order to construct the mirror  
 - [ ] Make an instruction set / blueprint of the mirror design  
-- [ ] Look at [mirror](https://www.amazon.com/dp/B01CZ35YJ6/ref=twister_B01CYYXQHI?_encoding=UTF8&th=1) options / dimensions with a $100 limit 
+- [x] Look at [mirror](https://www.amazon.com/dp/B01CZ35YJ6/ref=twister_B01CYYXQHI?_encoding=UTF8&th=1) options / dimensions with a $100 limit 
 - [ ] Finalize the location in which the mirror is being constructed  
 - [ ] Configure the Raspberry Pi to have the plugins in the correct place  
 - [ ] Add any customizations to the Raspberry Pi software  
-- [ ] Configure the Yeelights to the school wifi  
+- [x] Configure the Yeelights to the school wifi  
 
 ### **"Assembly Required" Open Items**
 - [ ] Send Mr. Luis an email with the following information:  
