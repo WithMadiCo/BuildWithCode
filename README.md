@@ -2,7 +2,7 @@
 
 _Last Updated: February 19th, 2019_
 
-The **Building With Code** Class is part of the [_With Madi Co_](https://withmadi.co) Teaching Curriclum. You can look up more free, available classes on the [Teaching Curriculm](https://github.com/WithMadiCo/TeachingCurriculum) page. 
+The **Building With Code** Class is part of the [_With Madi Co_](https://withmadi.co) Teaching Curriclum. You can look up more free, available classes on the [Teaching Curriculm](https://github.com/WithMadiCo/TeachingCurriculum) page. The code the students have created can be found within the `/curriculum/week#` folders associated with the lesson that was taught. The MagicMirror repository the students used as their final version can be found [here](https://github.com/WithMadiCo/BuildWithCode-MagicMirror).
 
 --------
 
