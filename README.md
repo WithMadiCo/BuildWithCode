@@ -1,6 +1,8 @@
 # Building With Code Curriculum
 
-_Last Updated: December 13th, 2018_
+_Last Updated: February 19th, 2019_
+
+The **Building With Code** Class is part of the [_With Madi Co_](https://withmadi.co) Teaching Curriclum. You can look up more free, available classes on the [Teaching Curriculm](https://github.com/WithMadiCo/TeachingCurriculum) page. 
 
 --------
 
@@ -37,9 +39,9 @@ _Experiment_
 
 ------------------
 
-# Schedule
+# [Schedule](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum)
 
-### [12.16.18] Week 1: Introduction to Computer Science / Technology
+### [12.16.18] [Week 1: Introduction to Computer Science / Technology](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week1)
 Introduction to the course
 - **What is Technology/Computer Science?**
 - **What can you do with Technology?**
@@ -52,7 +54,7 @@ Introduction to the course
 
 - **Introduction to the project**: Create a Magic Mirror, [show video](https://www.theverge.com/circuitbreaker/2017/8/17/16158104/smart-mirror-diy-raspberry-pi-commute-weather-time-gadget)
 
-### [12.21.18] Week 2: CHRISTMAS PARTY / Role Assignment
+### [12.21.18] [Week 2: CHRISTMAS PARTY / Role Assignment](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week2)
 - **Technology Role**: Project Manager
 - **Project Management**: Introduce them to a new role in technology / what they would do
 - Put flashing lights on our sweater ???
@@ -62,40 +64,40 @@ Introduction to the course
 
 ### [01.04.19] No School
 
-### [01.11.19] Week 3: DESIGN THINKING WORKSHOP
+### [01.11.19] [Week 3: DESIGN THINKING WORKSHOP](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week3)
 - **Technology Role**: UX Designer
 - **Design Thinking Workshop**: Way to come up with solutions
 
-### [01.18.19] Week 4: FIELD TRIP
+### [01.18.19] [Week 4: FIELD TRIP](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week4)
 - **Technology Role**: Product Manager
 - [http://www.philaedfund.org/programs/advancing-education/stem/links**Helpful List of Philadelphia STEAM Programs**]()
 
-### [01.25.19] Week 5: Begin Coding / Layout of TODO
+### [01.25.19] [Week 5: Begin Coding / Layout of TODO](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week5)
 - **Technology Role**: Back-End Developer
 
-### [02.01.19] Week 6: Coding --> SNOW DAY
+### [02.01.19] [Week 6: Coding --> SNOW DAY](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week6)
 - **Technology Role**: Bio-medical Engineer
 - **Technology Role**: Front-End Developer
 
 ### [02.08.19] Early Dismissal: No Class
 
-### [02.15.19] Week 7: Coding 
+### [02.15.19] [Week 7: Coding](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week7)
 - **Technology Role**: Big Data Engineer
 
-### [02.22.19] Week 8: ASSEMBLY REQUIRED
+### [02.22.19] [Week 8: ASSEMBLY REQUIRED](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week8)
 - **Technology Role**: Video Game Designer
 - Putting the product all together, and finishing touches.
 * Parts from the carpentry class should be completed by this week
 
 ### [03.01.19] Early Dismissal: No Class
 
-### [03.08.19] Week 9: FIELD TRIP - PITCH CREATION
+### [03.08.19] [Week 9: FIELD TRIP - PITCH CREATION](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week9)
 - **Technology Role**: Mobile App Developer & Virtual Reality Developer
 - **Crafting Our Story / Solution**: Create a pitch deck and practice sharing about the technology you're creating
 - **Practice Day**:
 
 
-### [03.15.19] Week 10: PRESENTATION DAY
+### [03.15.19] [Week 10: PRESENTATION DAY](https://github.com/WithMadiCo/IntroToTechnology/tree/master/curriculum/week10)
 - **Technology Role**: Technologist - aka the students
 - **Presentation**: Give them the opportunity to present out their project / demo it to they classmates
 
