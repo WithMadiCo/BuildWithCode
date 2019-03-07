@@ -91,7 +91,7 @@ Introduction to the course
 
 ### [03.01.19] Early Dismissal: No Class
 
-### [03.08.19] [Week 9: FIELD TRIP - PITCH CREATION](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week9)
+### [03.08.19] [Week 9: Finalize Product & PITCH CREATION](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week9)
 - **Technology Role**: Mobile App Developer & Virtual Reality Developer
 - **Crafting Our Story / Solution**: Create a pitch deck and practice sharing about the technology you're creating
 - **Practice Day**:
