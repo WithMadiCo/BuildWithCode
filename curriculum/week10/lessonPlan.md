@@ -10,6 +10,8 @@ Today is the final day for class, which means the students get to showoff all th
 
 - **Cryptography**: We learned how to hack the wifi (or at least how the passwords are encrypted). We did a hacking activity where we created our own cryptography key and hash for the other students to try to hack. 
 
+- **Binary**: Learning how computers communicate was a fun ativity that incorporated applied math subjects. Students learned how to count in binary and how to abstractly determine the value of a larger binary number.
+
 - **Website**: We created a simple html wesbite with basic information about ourselves and incorporating the basic fundamentals of html.
 
 - **Smart Mirror**: Our ongoing project throughout the semester, creating a smart mirror with Raspberry Pi. We used an open source project and contributed on top of it, adding our own customizations. 
