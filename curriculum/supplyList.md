@@ -17,4 +17,4 @@ It can be overwhelming trying to find the exact products to bring your Magic Mir
   - This is for the Alexa enabled aspect of the project. This will plug into the Raspberry Pi
 
 
-[You can shop this list here, with all the information with my reviews]([Magic Mirror Supply List](https://www.amazon.com/shop/madipfaff?listId=1HSNXJWWLVARH&ref=idea_share_inf)
+[You can shop this list here, with all the information with my reviews: Magic Mirror Supply List](https://www.amazon.com/shop/madipfaff?listId=1HSNXJWWLVARH&ref=idea_share_inf)
