@@ -3,6 +3,8 @@ Thanks to the incredible team work with the construction class, we were able to 
 
 We are still going to be assembling the magic mirror and getting it ready for production. Here's the current list of things to complete:
 
+- [X] Update design to be the desired layout 
+- [X] Communicate with constuction group on the layout of the frame
 - [ ] We will need to add the ability to auto start the raspberry pi so the mirror can be turned on and off without a hiccup. [Watch this video](https://www.youtube.com/watch?v=6mREl2Gza0g) and refer to [this tutorial](https://github.com/MichMich/MagicMirror/wiki/auto-starting-magicmirror) to learn how.
 
 - [ ] Check with the pi-switch to see if the auto start is running correctly
