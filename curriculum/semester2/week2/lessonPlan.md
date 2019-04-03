@@ -15,3 +15,7 @@ Adding content to the mirror:
 - [ ] Configure lights with new setup. We used Yeelights that needs an app to configure and connect to the wifi. During certain times, light changes need to happen (like in between classes / when you should be in class)
 
 - [ ] See how we can add alexa configurations with the microphone and speaker! (this would be really exciting!!!).
+
+
+- [ ] Add simple logo of Vocatio in the top middle of the mirror: [Learn how here](https://github.com/frdteknikelektro/MMM-SimpleLogo)
+- [ ] Add image slideshow of student work: [Learn how here](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow)
