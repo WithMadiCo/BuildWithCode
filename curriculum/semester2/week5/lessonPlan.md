@@ -2,7 +2,7 @@
 
 Turn on the Raspberry Pi and enter into the terminal.
 
-First we need to make sure that we are in the Magic Mirror directory by `cd MagicMirror` into it. 
+First we need to make sure that we are in the Magic Mirror directory by `cd BuildWithCode-MagicMirror` into it. 
 
 Then we need to make sure we have the most up to date version of the repository:
 `git pull`

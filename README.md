@@ -9,7 +9,7 @@ The **Building With Code** Class is part of the [_With Madi Co_](https://withmad
 **Date**: December 14th, 2018 - March 15th, 2019  
 **Grade / Student Experience**: 9th Grade w/ little to no experience in computer science  
 **Class Schedule**: 10 weeks of 135 minutes sessions  
-**[Supply List](https://github.com/WithMadiCo/BuildWithCode/blob/master/curriculum/supplyList.md)**:
+**[Supply List](https://github.com/WithMadiCo/BuildWithCode/blob/master/supplyList.md)**:
 - Computer (one for each student is best)
 - Text Editor (we're using [Atom](atom.io))
 - Two-Way Smart Mirror
@@ -39,9 +39,9 @@ _Experiment_
 
 ------------------
 
-# [Schedule](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum)
+# [Semester 1 Schedule](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1)
 
-### [12.16.18] [Week 1: Introduction to Computer Science / Technology](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week1)
+### [12.16.18] [Week 1: Introduction to Computer Science / Technology](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week1)
 Introduction to the course
 - **What is Technology/Computer Science?**
 - **What can you do with Technology?**
@@ -54,7 +54,7 @@ Introduction to the course
 
 - **Introduction to the project**: Create a Magic Mirror, [show video](https://www.theverge.com/circuitbreaker/2017/8/17/16158104/smart-mirror-diy-raspberry-pi-commute-weather-time-gadget)
 
-### [12.21.18] [Week 2: CHRISTMAS PARTY / Role Assignment](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week2)
+### [12.21.18] [Week 2: CHRISTMAS PARTY / Role Assignment](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week2)
 - **Technology Role**: Project Manager
 - **Project Management**: Introduce them to a new role in technology / what they would do
 - Put flashing lights on our sweater ???
@@ -64,42 +64,61 @@ Introduction to the course
 
 ### [01.04.19] No School
 
-### [01.11.19] [Week 3: DESIGN THINKING WORKSHOP](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week3)
+### [01.11.19] [Week 3: DESIGN THINKING WORKSHOP](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week3)
 - **Technology Role**: UX Designer
 - **Design Thinking Workshop**: Way to come up with solutions
 
-### [01.18.19] [Week 4: FIELD TRIP](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week4)
+### [01.18.19] [Week 4: FIELD TRIP](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week4)
 - **Technology Role**: Product Manager
 - [http://www.philaedfund.org/programs/advancing-education/stem/links**Helpful List of Philadelphia STEAM Programs**]()
 
-### [01.25.19] [Week 5: Begin Coding / Layout of TODO](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week5)
+### [01.25.19] [Week 5: Begin Coding / Layout of TODO](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week5)
 - **Technology Role**: Back-End Developer
 
-### [02.01.19] [Week 6: Coding --> SNOW DAY](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week6)
+### [02.01.19] [Week 6: Coding --> SNOW DAY](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week6)
 - **Technology Role**: Bio-medical Engineer
 - **Technology Role**: Front-End Developer
 
 ### [02.08.19] Early Dismissal: No Class
 
-### [02.15.19] [Week 7: Coding](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week7)
+### [02.15.19] [Week 7: Coding](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week7)
 - **Technology Role**: Big Data Engineer
 
-### [02.22.19] [Week 8: ASSEMBLY REQUIRED](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week8)
+### [02.22.19] [Week 8: ASSEMBLY REQUIRED](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week8)
 - **Technology Role**: Video Game Designer
 - Putting the product all together, and finishing touches.
 * Parts from the carpentry class should be completed by this week
 
 ### [03.01.19] Early Dismissal: No Class
 
-### [03.08.19] [Week 9: Finalize Product & PITCH CREATION](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week9)
+### [03.08.19] [Week 9: Finalize Product & PITCH CREATION](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week9)
 - **Technology Role**: Mobile App Developer & Virtual Reality Developer
 - **Crafting Our Story / Solution**: Create a pitch deck and practice sharing about the technology you're creating
 - **Practice Day**:
 
 
-### [03.15.19] [Week 10: PRESENTATION DAY](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/week10)
+### [03.15.19] [Week 10: PRESENTATION DAY](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester1/week10)
 - **Technology Role**: Technologist - aka the students
 - **Presentation**: Give them the opportunity to present out their project / demo it to they classmates
+
+-------------------
+
+# [Semester 2 Schedule](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester2)
+
+### [03.29.19] [Week 1: Welcome Back - Let's Finish the Mirror](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester2/week1)
+
+
+### [04.05.19] [Week 2: Smart Mirror Wrap-Up](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester2/week2)
+
+
+### [04.12.19] [Week 3: Build An Alexa Skill](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester2/week3)
+
+
+### [04.26.19] [Week 4:  Build An Alexa Skill (cont.)](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester2/week4)
+
+
+### [05.03.19] [Week 5: Smart Mirror / Alexa Skill Wrap-Up & Presentation](https://github.com/WithMadiCo/BuildWithCode/tree/master/curriculum/semester2/week5)
+
 
 -------------------
 
